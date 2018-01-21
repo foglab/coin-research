@@ -28,7 +28,7 @@ This rate is hypothetical, and we will release true rates at a later time.
 
 EtherDelta, is currently doing about ~$20m/yr in fees (from another review of their smart contract in January), NEX have some scaling woes to achieve the $100M/yr for $1500 return. 
 
-From an ROI perspective, it's far from earth-shattering (2%, relative to say ARK which is at ~10%) but has some solid numbers to support a long life.  
+From an ROI perspective, it's far from earth-shattering (2% (full stake), relative to say ARK which is at ~10%) but has some solid numbers to support a long life.  
 
 I can't see it being a good lifestyle coin as you would need to hold 1M NEX to get 150k/yr ROI which is a $1M investment at the time of the ICO and substantially more after.
 
