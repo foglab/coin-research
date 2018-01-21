@@ -1,3 +1,13 @@
+---
+name: Neon Exchange
+ticker: NEX
+ico_price: 1 NEX = 1.00 USD 
+pre-sale: no
+total_tokens: 50,000,000
+type: NEP-5 Token
+version: 0.1
+---
+
 # NEX pre-ICO review [Jan 21st 2018]
 
 Analysis of the NEX whitepaper I feel that NEX has the potential to become a good utility token and a solid earner as profit sharing from a distributed exchange.
@@ -30,14 +40,4 @@ Will this token pop, yes I can see it being a $10-$40 coin in 2017, perhaps $50 
 
 * Buy
 * Flip 50% at 10X and HODL!
-
----
-name: Neon Exchange
-ticker: NEX
-ico_price: 1 NEX = 1.00 USD 
-pre-sale: no
-total_tokens: 50,000,000
-type: NEP-5 Token
-version: 0.1
----
 
